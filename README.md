@@ -7,6 +7,10 @@
 ## Download the app from :
 - https://github.com/Rakeshpavan333/s_alarm/raw/master/s_alarm.apk
 
-## Contributors :
-- https://github.com/Rakeshpavan333/s_alarm/blob/master/Contributors.md
+## Contributors:
+- Rakesh Pavan ( www.github.com/Rakeshpavan333 )
+- Dhruvik Navadiya
+- Yogesh Choubey
+- Neeraj Deshpande
+
 
