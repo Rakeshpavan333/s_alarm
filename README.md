@@ -3,3 +3,6 @@
 - Supports features like scanning bar-code, solving math , etc to switch off alarm , and all the basic features of a normal alarm app .
 ## For Presentation and How to use, go to :
 - https://github.com/Rakeshpavan333/s_alarm/blob/master/presentation.pdf
+
+## Contributors :
+- https://github.com/Rakeshpavan333/s_alarm/blob/master/Contributors.md
